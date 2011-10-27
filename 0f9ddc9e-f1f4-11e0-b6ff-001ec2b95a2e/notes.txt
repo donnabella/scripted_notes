@@ -12,7 +12,7 @@ language is our genes talking, getting what they want.
 2:20 languages exist to prevent us from communicating.
 
 3:00 boring part on tools 
-[iobs] ability to indicate a section that can be skipped
+[obs] ability to indicate a section that can be skipped
 
 social learning: cumulative cultural adaptation
 
